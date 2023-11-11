@@ -5,6 +5,7 @@ const chainStore = useBlockchain();
 const baseStore = useBaseStore();
 chainStore.initial();
 const router = useRouter();
+console.log(chainStore.logo)
 function changeEndpoint(item: Endpoint) {
   chainStore.setRestEndpoint(item);
   if (chainStore.current) router.push(`/${chainStore.current.chainName}`);

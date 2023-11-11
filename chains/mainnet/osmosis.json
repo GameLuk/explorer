@@ -15,13 +15,13 @@
         "symbol": "GAME",
         "exponent": "6",
         "coingecko_id": "game",
-        "logo": "/logos/osmosis.jpg"
+        "logo": "/logos/gameluk.svg"
     },{
         "base": "uion",
         "symbol": "ION",
         "exponent": "6",
         "coingecko_id": "ion", 
-        "logo": "/logos/osmosis.jpg"
+        "logo": "/logos/gameluk.svg"
     },{
         "base": "usomm",
         "symbol": "SOMM",
