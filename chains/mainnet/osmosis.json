@@ -1,20 +1,20 @@
 {
-    "chain_name": "osmosis",
-    "coingecko": "osmosis",
+    "chain_name": "gameluk",
+    "coingecko": "gameluk",
     "api": ["https://explorer.gameluk.com/api"],
     "rpc": ["https://explorer.gameluk.com/rpc"],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "osmo",
+    "addr_prefix": "game",
     "logo": "/logos/osmosis.jpg",
     "theme_color": "#812cd6",
     "assets": [{
-        "base": "uosmo",
-        "symbol": "OSMO",
+        "base": "game",
+        "symbol": "GAME",
         "exponent": "6",
-        "coingecko_id": "osmosis", 
+        "coingecko_id": "game",
         "logo": "/logos/osmosis.jpg"
     },{
         "base": "uion",
