@@ -2,10 +2,10 @@
     "chain_name": "cosmos",
     "registry_name": "cosmoshub",
     "api": [
-        {"address": "https://chain.base.tech/api"}
+        {"address": "https://explorer.gameluk.com/api"}
     ],
     "rpc": [
-        {"address": "https://chain.base.tech/rpc"}
+        {"address": "https://explorer.gameluk.com/rpc"}
     ],
     "sdk_version": "0.45.1",
     "coin_type": "118",
