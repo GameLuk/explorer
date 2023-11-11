@@ -1,8 +1,8 @@
 {
     "chain_name": "osmosis",
     "coingecko": "osmosis",
-    "api": ["https://chain.base.tech/api"],
-    "rpc": ["https://chain.base.tech/rpc"],
+    "api": ["https://explorer.gameluk.com/api"],
+    "rpc": ["https://explorer.gameluk.com/rpc"],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "118",
