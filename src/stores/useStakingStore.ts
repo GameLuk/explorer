@@ -38,6 +38,9 @@ export const useStakingStore = defineStore('stakingStore', {
     blockchain() {
       return useBlockchain();
     },
+    bondDenom() {
+      return "game";
+    },
   },
   actions: {
     async init() {
@@ -53,7 +56,10 @@ export const useStakingStore = defineStore('stakingStore', {
     },
     async fetchParams() {
       const response = await this.blockchain.rpc?.getStakingParams();
-      if (response?.params) this.params = response.params;
+      if (response?.params) {
+        this.params = response.params;
+        this.params.bond_denom = 'game'; // 设置 bond_denom 为 'game'
+      }
       return this.params;
     },
     async fetchPool() {

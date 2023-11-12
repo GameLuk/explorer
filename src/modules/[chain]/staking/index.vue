@@ -316,16 +316,21 @@ loadAvatars();
                                             class="w-8 h-8 rounded-full bg-gray-400 absolute opacity-10"
                                         ></div>
                                         <div class="w-8 h-8 rounded-full">
-                                            <img
-                                                v-if="logo"
-                                                :src="logo"
-                                                class="object-contain"
-                                            />
-                                            <Icon
-                                                v-else
-                                                class="text-4xl"
-                                                :icon="`mdi-help-circle-outline`"
-                                            />
+                                          <img
+                                              v-else
+                                              src="/logo.svg"
+                                              class="text-4xl"
+                                          />
+<!--                                            <img-->
+<!--                                                v-if="logo"-->
+<!--                                                :src="logo"-->
+<!--                                                class="object-contain"-->
+<!--                                            />-->
+<!--                                            <Icon-->
+<!--                                                v-else-->
+<!--                                                class="text-4xl"-->
+<!--                                                :icon="`mdi-help-circle-outline`"-->
+<!--                                            />-->
                                             
                                         </div>
                                     </div>
