@@ -177,7 +177,7 @@ export const useIndexModule = defineStore('module-index', {
           stats: formatter.formatTokenAmount({
             // @ts-ignore
             amount: this.pool.bonded_tokens,
-            denom: staking.params.bond_denom,
+            denom: "game",
           }),
           change: 0,
         },

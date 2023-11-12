@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="_图层_1" data-name="图层 1" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #42409a;
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <path class="cls-1" d="M.15,254.09v2.54c0,140.42,114.62,255.37,256.64,255.37,140.42,0,255.06-114.95,255.06-255.37h-255.06s0-256.63,0-256.63C164.78,0,84.21,48.39,39,120.99,14.11,160.96,.67,207,.15,254.09Z"></path>
-  <path class="cls-1" d="M271.13,241.03h240.71s0-240.09,0-240.09h-240.71s0,240.09,0,240.09Z"></path>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#822FD6;}
+</style>
+<path class="st0" d="M0.2,254.1v2.5C0.2,397,114.8,512,256.8,512c140.4,0,255.1-115,255.1-255.4H256.8V0C164.8,0,84.2,48.4,39,121
+	C14.1,161,0.7,207,0.2,254.1z"/>
+<path class="st0" d="M271.1,241h240.7V0.9H271.1V241z"/>
 </svg>
