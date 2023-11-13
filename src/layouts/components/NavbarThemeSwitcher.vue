@@ -32,7 +32,7 @@ const changeMode = (val?: 'dark' | 'light') => {
 };
 
 onMounted(() => {
-    changeMode(theme.value === 'light' ? 'dark' : 'light');
+    changeMode(theme.value === 'dark' ? 'light' : 'dark');
 });
 </script>
 

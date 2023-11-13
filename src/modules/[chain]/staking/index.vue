@@ -317,16 +317,9 @@ loadAvatars();
                                         ></div>
                                         <div class="w-8 h-8 rounded-full">
                                             <img
-                                                v-if="logo"
-                                                :src="logo"
-                                                class="object-contain"
-                                            />
-                                            <Icon
-                                                v-else
+                                                src="/logo.svg"
                                                 class="text-4xl"
-                                                :icon="`mdi-help-circle-outline`"
                                             />
-                                            
                                         </div>
                                     </div>
 
