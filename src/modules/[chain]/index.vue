@@ -61,22 +61,22 @@ const comLinks = [
   {
     name: 'Website',
     icon: 'mdi-web',
-    href: store.homepage,
+    href: 'https://gameluk.com/',
   },
   {
     name: 'Twitter',
     icon: 'mdi-twitter',
-    href: store.twitter,
+    href: 'https://twitter.com/GameLuk_Labs',
   },
   {
     name: 'Telegram',
     icon: 'mdi-telegram',
-    href: store.telegram,
+    href: 'https://t.me/gameluk_lab',
   },
   {
     name: 'Github',
     icon: 'mdi-github',
-    href: store.github,
+    href: 'https://github.com/GameLuk',
   },
 ];
 

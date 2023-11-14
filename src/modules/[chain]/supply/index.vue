@@ -41,7 +41,7 @@ function pageload(p: number) {
                 </tr>
             </thead>
             <tr v-for="item in list">
-                <td>{{ item.denom  }}</td>
+                <td>{{ "GAME"  }}</td>
                 <td>{{ item.amount  }}</td>
             </tr>
         </table>
