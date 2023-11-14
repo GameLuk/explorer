@@ -357,8 +357,7 @@ loadAvatars();
                                                     amount: parseInt(
                                                         v.tokens
                                                     ).toString(),
-                                                    denom: staking.params
-                                                        .bond_denom,
+                                                    denom: 'GAME',
                                                 },
                                                 true,
                                                 '0,0'
