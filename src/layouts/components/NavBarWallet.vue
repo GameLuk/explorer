@@ -45,6 +45,9 @@ const tipMsg = computed(() => {
       <label v-if="!walletStore?.currentAddress" for="PingConnectWallet" class="btn btn-sm btn-primary">
         <Icon icon="mdi:wallet" /><span class="ml-1 block">Connect Wallet</span>
       </label>
+      <div class="flex justify-center">
+        <span class="ml-1 mt-2 hidden md:block"> Currently only supports Leap </span>
+      </div>
       <div class="px-2 mb-1 text-gray-500 dark:text-gray-400 font-semibold">
         {{ walletStore.connectedWallet?.wallet }}
       </div>

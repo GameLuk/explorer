@@ -1,5 +1,5 @@
 {
-    "chain_name": "sei-chain",
+    "chain_name": "gameluk",
     "coingecko": "gameluk",
     "api": ["https://explorer.gameluk.com/api"],
     "rpc": ["https://explorer.gameluk.com/rpc"],
