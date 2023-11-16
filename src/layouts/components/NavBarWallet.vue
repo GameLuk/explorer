@@ -43,7 +43,7 @@ const tipMsg = computed(() => {
     </label>
     <div tabindex="0" class="dropdown-content menu shadow p-2 bg-base-100 rounded w-52 md:!w-64 overflow-auto">
       <label v-if="!walletStore?.currentAddress" for="PingConnectWallet" class="btn btn-sm btn-primary">
-        <Icon icon="mdi:wallet" /><span class="ml-1 block">Connect Wallet</span>
+        <Icon icon="mdi:wallet" /><span class="ml-1 block">Connect (Leap only)</span>
       </label>
       <div class="px-2 mb-1 text-gray-500 dark:text-gray-400 font-semibold">
         {{ walletStore.connectedWallet?.wallet }}
@@ -54,9 +54,6 @@ const tipMsg = computed(() => {
           style="overflow-wrap: anywhere" @click="copyAdress(walletStore.currentAddress)">
           {{ walletStore.currentAddress }}
         </a>
-        <div class="flex justify-center">
-          <span class="ml-1 mt-2 hidden md:block"> Currently only supports Leap </span>
-        </div>
         <div class="divider mt-1 mb-1"></div>
         <RouterLink to="/wallet/accounts">
           <div class="block py-2 px-2 hover:!bg-gray-100 rounded cursor-pointer">Accounts</div>
