@@ -61,7 +61,7 @@ const comLinks = [
   {
     name: 'Website',
     icon: 'mdi-web',
-    href: 'https://gameluk.com/',
+    href: 'https://obibit.com/',
   },
   {
     name: 'Twitter',
@@ -71,7 +71,7 @@ const comLinks = [
   {
     name: 'Telegram',
     icon: 'mdi-telegram',
-    href: 'https://t.me/gameluk_lab',
+    href: 'https://t.me/obibit_lab',
   },
   {
     name: 'Github',

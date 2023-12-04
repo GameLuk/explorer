@@ -69,7 +69,7 @@ function selected(route: any, nav: NavLink) {
         <RouterLink to="/" class="flex items-center">
           <img class="w-10 h-10" src="../../assets/logo.svg" />
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-            Gameluk
+            Obibit
           </h1>
         </RouterLink>
         <div
@@ -215,7 +215,7 @@ function selected(route: any, nav: NavLink) {
 <!--          {{ $t('module.sponsors') }}-->
 <!--        </div>-->
 <!--        <a-->
-<!--          href="https://gameluk.com"-->
+<!--          href="https://obibit.com"-->
 <!--          target="_blank"-->
 <!--          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"-->
 <!--        >-->
@@ -226,7 +226,7 @@ function selected(route: any, nav: NavLink) {
 <!--          <div-->
 <!--            class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"-->
 <!--          >-->
-<!--            Gameluk-->
+<!--            Obibit-->
 <!--          </div>-->
 <!--        </a>-->
 <!--        <a-->

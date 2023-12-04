@@ -22,11 +22,11 @@
     "links": "Links"
   },
   "pages": {
-    "title": "Gameluk Dashboard",
+    "title": "Obibit Dashboard",
     "title_all": "404",
     "tag": "Beta",
     "tag_all": "Page Not Found",
-    "slogan": "Gameluk Dashboard is not just an explorer but also a wallet and more ... 🛠",
+    "slogan": "Obibit Dashboard is not just an explorer but also a wallet and more ... 🛠",
     "description": "Cosmos Ecosystem Blockchains 🚀",
     "search_placeholder": "Search Chain",
     "description_all": "We couldn't find the page you are looking for.",
@@ -271,7 +271,7 @@
     "select_endpoint": "Select Endpoint",
     "text_1": "Import global script",
     "text_2": "Connect Wallet",
-    "text_3": "Gameluk Convert"
+    "text_3": "Obibit Convert"
   },
   "index": {
     "rank": "Rank",

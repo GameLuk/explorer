@@ -21,11 +21,11 @@
       "links": "Tautan"
     },
     "pages": {
-      "title": "Gameluk Dashboard",
+      "title": "Obibit Dashboard",
       "title_all": "404",
       "tag": "Beta",
       "tag_all": "Halaman Tidak Ditemukan",
-      "slogan": "Gameluk Dashboard bukan hanya sebuah penjelajah tetapi juga sebuah dompet dan masih banyak lagi ... 🛠",
+      "slogan": "Obibit Dashboard bukan hanya sebuah penjelajah tetapi juga sebuah dompet dan masih banyak lagi ... 🛠",
       "description": "Cosmos Ecosystem Blockchains 🚀",
       "search_placeholder": "Telusuri Rantai",
       "description_all": "Kami tidak dapat menemukan halaman yang anda cari.",
@@ -261,7 +261,7 @@
       "select_endpoint": "Pilih Titik Akhir",
       "text_1": "Impor skrip global",
       "text_2": "Hubungkan Dompet",
-      "text_3": "Konversi Gameluk"
+      "text_3": "Konversi Obibit"
     },
     "index": {
       "rank": "Peringkat",
